@@ -1,0 +1,13 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: currentColor;
+}
+
+.header{
+    text-align: center;
+    color: #ffffff;
+}
+.sendEmail{
+    color: #ffffff;
+    padding: 25px;
+}
